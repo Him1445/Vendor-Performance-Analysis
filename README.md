@@ -79,7 +79,7 @@ Refer to `requirements.txt` for exact package versions.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Spunkyiitj/Vendor-Performance-Analysis.git
+   git clone https://github.com/Him1445/Vendor-Performance-Analysis.git
    cd vendor-performance-dashboard
    ```
 
@@ -125,8 +125,8 @@ Refer to `requirements.txt` for exact package versions.
 
 ## 🙋 Contact
 
-**Prince Raj**
-📧 [spunkyiitj@gmail.com]
-🔗 [LinkedIn](https://www.linkedin.com/in/prince-rajiitj)
+**Himanshu Meena**
+📧 [iitjhm2022@gmail.com]
+🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-meena-45a81a25b/)
 
 Feel free to explore the code and reach out with any questions or feedback!
